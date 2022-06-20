@@ -9,9 +9,9 @@ Course taught Spring 2022 at Lasalle College Vancouver.
 **Technology Needed:** 	Jupyter Notebook, SQLite
 
 **Resources:** 	
-- 1. Severance, Charles R. Python for everybody. Charles Severance, 2009.
--	2. Sweigart, Al. Automate the boring stuff with Python: practical programming for total beginners. No Starch Press, 2019.
--	3. Matthes, Eric. Python crash course: A hands-on, project-based introduction to programming. No Starch Press, 2019.
+1. Severance, Charles R. Python for everybody. Charles Severance, 2009.
+2. Sweigart, Al. Automate the boring stuff with Python: practical programming for total beginners. No Starch Press, 2019.
+3. Matthes, Eric. Python crash course: A hands-on, project-based introduction to programming. No Starch Press, 2019.
 
 **Weekly Outline**
 
