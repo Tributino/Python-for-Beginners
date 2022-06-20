@@ -1,5 +1,5 @@
 # Python-for-Beginners
-Course taught Spring 2022 at Lasalle College Vancouver.
+Course taught in spring 2022 at Lasalle College Vancouver.
 
 
 **Course Title:**	Introduction to Scripting Languages
