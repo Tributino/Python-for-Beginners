@@ -6,6 +6,13 @@ Course taught Spring 2022 at Lasalle College Vancouver.
 
 **Course Description:** 	Students will use principles and techniques used to develop small-to-medium scale applications that store, manage and retrieve data. 
 
+**Technology Needed:** 	Jupyter Notebook, SQLite
+
+**Resources:** 	
+- 1. Severance, Charles R. Python for everybody. Charles Severance, 2009.
+-	2. Sweigart, Al. Automate the boring stuff with Python: practical programming for total beginners. No Starch Press, 2019.
+-	3. Matthes, Eric. Python crash course: A hands-on, project-based introduction to programming. No Starch Press, 2019.
+
 **Weekly Outline**
 
 Week # | Content | Notebook access
