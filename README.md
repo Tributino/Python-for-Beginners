@@ -11,8 +11,7 @@ Course taught Spring 2022 at Lasalle College Vancouver.
 Week # | Content | Notebook access
 :----:|:-----|:-------:
 1   | Variables, Expressions, and Statements  | [Week 1 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Week_1)
-
-2   | Conditional Statements                  | [Week 2 ]
+2   | Conditional execution & Functions       | [Week 2 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Week_2)
 2   | Functions                               | [Week 2 ]
 3   | Loops and Iteration                     | [Week 3 ]
 
