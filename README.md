@@ -10,7 +10,8 @@ Course taught Spring 2022 at Lasalle College Vancouver.
 
 Week # | Content | Notebook access
 :----:|:-----|:-------:
-1   | Variables, Expressions, and Statements  | [Week 1 - Notebook 1](https://github.com/machadomr/Python_MIK/blob/main/MIK_Python_Week1/Week1_Notebook1.ipynb)
+1   | Variables, Expressions, and Statements  | [Week 1 - Notebook 1]([(https://github.com/Tributino/Python-for-Beginners/tree/main/Week_1))
+
 2   | Conditional Statements                  | [Week 2 - Notebook 1](https://github.com/machadomr/Python_MIK/blob/main/MIK_Python_Week2/Week2_Notebook1.ipynb)
 2   | Functions                               | [Week 2 - Notebook 2](https://github.com/machadomr/Python_MIK/blob/main/MIK_Python_Week2/Week2_Notebook2.ipynb)
 3   | Loops and Iteration                     | [Week 3 - Notebook 1](https://github.com/machadomr/Python_MIK/blob/main/MIK_Python_Week3/Week3_Notebook1.ipynb)
