@@ -6,7 +6,7 @@ Course taught Spring 2022 at Lasalle College Vancouver.
 
 **Course Description:** 	Students will use principles and techniques used to develop small-to-medium scale applications that store, manage and retrieve data. 
 
-**Technology Needed:** 	Jupyter Notebook, SQLite
+**Technology Needed:** 	Jupyter Notebook, [SQLite](https://sqlitebrowser.org/dl/)
 
 **Resources:** 	
 1. Severance, Charles R. Python for everybody. Charles Severance, 2009.
