@@ -5,6 +5,8 @@ Course taught in spring 2022 at Lasalle College Vancouver.
 **Course Title:**	Introduction to Scripting Languages
 
 **Course Description:** 	Students will use principles and techniques used to develop small-to-medium scale applications that store, manage and retrieve data. 
+- Course Length:  	11 weeks 
+- Contact Hours:	44 hours 
 
 **Technology Needed:** 	Jupyter Notebook, [SQLite](https://sqlitebrowser.org/dl/)
 
