@@ -13,7 +13,7 @@ Course taught in spring 2022 at Lasalle College Vancouver.
 2. Sweigart, Al. Automate the boring stuff with Python: practical programming for total beginners. No Starch Press, 2019.
 3. Matthes, Eric. Python crash course: A hands-on, project-based introduction to programming. No Starch Press, 2019.
 
-**Weekly Outline**
+**Weekly Outline: **
 
 Week # | Content | Access
 :----:|:-----|:-------:
