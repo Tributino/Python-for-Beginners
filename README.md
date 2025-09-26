@@ -60,7 +60,7 @@ Week # | Content | Access
 8   | Object-oriented programming & Basic SQL   | [Week 8 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Week_8)
 9   | Data Models and Relational SQL            | [Week 9 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Week_9)
 10  | Final Exam                                | [Week 10 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Week_10)
-11  | Final Project                             | [Week 11 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Final_Project)
+11  | Final Project                             | [Week 11 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Final%20Project)
 
 ---
 
