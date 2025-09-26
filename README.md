@@ -1,21 +1,52 @@
-# Python-for-Beginners
-Course taught in spring 2022 at Lasalle College Vancouver.
+#  WIM250: Introduction to Scripting Languages
+
+Welcome to the official repository for **WIM250 - Introduction to Scripting Languages**, offered at **LaSalle College Vancouver** during **Summer 2025**. 
+
+---
+
+## 🧑‍🏫 Instructor
+
+**Dr. Ivaldo Tributino de Sousa**  
+📧 ISousa@lasallecollegevancouver.com  
 
 
-**Course Title:**	Introduction to Scripting Languages
+---
 
-**Course Description:** 	Students will use principles and techniques used to develop small-to-medium scale applications that store, manage and retrieve data. 
-- Course Length:  	11 weeks 
-- Contact Hours:	44 hours 
+##  Course Description
 
-**Technology Needed:** 	Jupyter Notebook, [SQLite](https://sqlitebrowser.org/dl/)
+Students will learn to build small-to-medium scale database applications integrated with the web. The course emphasizes:
 
-**Resources:** 	
-1. Severance, Charles R. Python for everybody. Charles Severance, 2009.
-2. Sweigart, Al. Automate the boring stuff with Python: practical programming for total beginners. No Starch Press, 2019.
-3. Matthes, Eric. Python crash course: A hands-on, project-based introduction to programming. No Starch Press, 2019.
+- Python and SQL fundamentals
+- Server-side scripting
+- Data management and retrieval
+- Debugging and troubleshooting
 
-**Weekly Outline:**
+---
+
+##  Learning Outcomes
+
+By the end of this course, students will be able to:
+
+- Demonstrate essential Python and SQL skills 
+- Apply programming fundamentals (loops, conditions, variables, arrays)
+- Communicate with databases using SQL
+- Debug and troubleshoot web scripting issues
+---
+
+## 📚 Resources
+
+### Required Software
+- Anaconda Navigator
+- SQLite
+
+### Recommended Books
+- *Python for Everybody* – Charles Severance  
+- *Automate the Boring Stuff with Python* – Al Sweigart  
+- *Python Crash Course* – Eric Matthes
+
+---
+
+## Weekly Topics 
 
 Week # | Content | Access
 :----:|:-----|:-------:
@@ -30,4 +61,21 @@ Week # | Content | Access
 9   | Object-oriented programming & Basic SQL   | [Week 9 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Week_9)
 10  | Data Models and Relational SQL            | [Week 10 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Week_10)
 11  | Final Exam                                | [Week 11 ](https://github.com/Tributino/Python-for-Beginners/tree/main/Week_11)
+
+---
+
+##  Evaluation Breakdown
+
+- Participation & Professionalism: 14%  
+- Assignments: 20%  
+- Quizzes: 16%  
+- Midterm Exam: 15%  
+- Final Exam: 25%  
+- Final Project: 10%  
+**Total: 100%**
+
+
+
+
+
 
