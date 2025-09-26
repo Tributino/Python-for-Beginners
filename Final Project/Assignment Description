@@ -1,0 +1,19 @@
+Learning Outcomes:
+After successfully completing this activity, students will have the ability to:
+Analyze and explore a database stored in CSV/JSON format.
+Employ python libraries to carry out data analysis tasks, including collecting, cleaning,
+and data visualization.
+Assignment Description:
+Through the use of the Kaggle platform, students will choose a dataset and then
+present their data analysis results in a Jupyter notebook file. It's okay to use generative
+AI and code from other Kaggle users, as long as the student understands the code fully
+and gives proper credit to the source.
+Elements that will be evaluated:
+1. Database,
+2. Student comments in Jupyter Notebook cells to explain the commands,
+3. The number of Libraries used,
+4. The graphs used to represent the data,
+5. Student presentation,
+6. Feature Engineering,
+7. Machine learning algorithm,
+8. Bibliography
