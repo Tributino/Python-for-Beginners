@@ -1,0 +1,15 @@
+Full Name	User Action	Timestamp 
+Ivaldo Tributino de Sousa	Joined	7/20/2021, 1:26:30 PM
+Noah	Joined	7/20/2021, 1:26:31 PM 
+Olivia	Joined	7/20/2021, 1:26:31 PM
+Liam	Joined	7/20/2021, 1:26:31 PM
+Emma	Joined	7/20/2021, 1:26:31 PM
+William	Joined	7/20/2021, 1:26:31 PM
+Charlotte	Joined	7/20/2021, 1:28:04 PM
+Leo	Joined	7/20/2021, 1:28:13 PM
+Amelia	Joined	7/20/2021, 1:28:49 PM
+Oliver	Left	7/20/2021, 2:35:07 PM
+Chloe	Joined	7/20/2021, 1:29:33 PM
+Benjamin	Joined	7/20/2021, 1:29:52 PM
+Ava	Joined	7/20/2021, 1:30:20 PM
+Lucas	Joined	7/20/2021, 1:33:01 PM
